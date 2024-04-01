@@ -1,10 +1,4 @@
 <div align="center">
-  <img height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0DDeG11AmOG-kPnCi-oDc9&ust=1712038516635000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCE9M2uoIUDFQAAAAAdAAAAABAM"  />
-</div>
-
-###
-
-<div align="center">
   <a href="https://www.linkedin.com/in/nehalrahman" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -12,13 +6,19 @@
 
 ###
 
+<h1 align="center">👋 Hey there! I'm Nehal, a software & data analysis enthusiast.</h1>
+
+###
+
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nehal-1998.nehal-1998&"  />
+  <img height="200" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif"  />
 </div>
 
 ###
 
-<h1 align="center">👋 Hey there! I'm Nehal, a software & data analysis enthusiast.</h1>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nehal-1998.nehal-1998&"  />
+</div>
 
 ###
 
