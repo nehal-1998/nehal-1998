@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">👋 Hey there! I'm Nehal, a software & data analysis enthusiast.</h1>
+<h1 align="center">👋 Hey there! I'm Nehal, a Software & Data Analysis enthusiast.</h1>
 
 ###
 
